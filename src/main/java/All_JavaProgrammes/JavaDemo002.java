@@ -6,6 +6,7 @@ public class JavaDemo002 {
 
         System.out.println("Programme Starting ");
         System.out.println("JavaDemo002");
+        System.out.println("Hello");
     }
 
 }
